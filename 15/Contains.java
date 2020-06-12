@@ -13,6 +13,7 @@ public class Contains{
         }
 
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter number : ");
         num = sc.nextInt();
 
         for(int i = 0; i < 10; i++){
